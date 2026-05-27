@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildecrypt",
+        "uuid": 19719348,
+        "checksum": "g9dior"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
